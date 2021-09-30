@@ -1,5 +1,31 @@
 .home{
+    width: 50%;
+    margin: auto;
     color: brown;
     margin-left: 30%;
+    
+}
+
+@media only screen and (max-width:1024px)
+{    
+
+    .header-container{
+        width: 90%;
+    }
+    .header-logo{
+        font-size: 28px;
+    }
+
+}
+
+@media only screen and (max-width:512px)
+{    
+
+    .header-container{
+        width: 100%;
+    }
+    .header-logo{
+        font-size: 24px;
+    }
     
 }

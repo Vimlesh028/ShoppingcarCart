@@ -6,7 +6,7 @@ const Header = () => {
         <div className="header-container">
             <div className="header">
                 <div className="header-logo">
-                    Xpenser <i class="bi bi-credit-card "></i>
+                    Xpenser <i className="bi bi-credit-card "></i>
                 
                 </div>
             </div>

@@ -1,1 +1,29 @@
-@import url('https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css')
+/* @import url('https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css') */
+.footer-logo{
+    display: flex;
+    align-items: center;
+    color: oldlace;
+    font-size:small;
+    margin-left: 6px;
+}
+
+.footer-logo{
+    display: flex;
+    align-items: center;
+    margin-left: 6px;
+}
+.footer-container{
+    
+    margin: auto;
+    border:2px;
+    width: 50%;
+    height: 40px;
+    background-color: dimgray;
+
+    
+    
+}
+.footer{
+    font-size: 18px;
+    font-weight: bold;
+}
